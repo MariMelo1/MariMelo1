@@ -1,9 +1,8 @@
-
 <h2> Oi, eu sou a Mariane Melo ! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
 <div>
   <a href="https://github.com/MariMelo1">
-  <img  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariMelo1&layout=compact&theme=dracula&show_icons=true" />
+  <img  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariMelo1&layout=compact&theme=monokai&show_icons=true" />
   <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=MariMelo1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
